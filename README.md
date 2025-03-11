@@ -17,6 +17,8 @@ Note: The goal of this project is not the performance of the renderer.
 
 模型代码性能评估。
 
+当硬件和AI生成视频的算法可以实时运行时，语料应该可以被用于迁移开源项目已存在的图形特效。
+
 注意：本项目的目标不是渲染器的性能。
 
 #### Japanese:
