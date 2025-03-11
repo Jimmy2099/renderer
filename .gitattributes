@@ -1,2 +1,2 @@
-*.go linguist-language=Go
 * linguist-language=Python
+*.go linguist-language=Go
