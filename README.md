@@ -12,6 +12,8 @@ Note: The goal of this project is not the performance of the renderer.
 
 为训练出色的图形AI大语言助手提供语料。
 
+对开源模型进行微调
+
 注意：本项目的目标不是渲染器的性能。
 
 #### Japanese:
