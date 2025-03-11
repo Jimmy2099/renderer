@@ -22,3 +22,15 @@
 [submodule "game/ea/CnC_Modding_Support"]
 	path = game/ea/CnC_Modding_Support
 	url = https://github.com/electronicarts/CnC_Modding_Support.git
+[submodule "graphic_engine/g3n/engine"]
+	path = graphic_engine/g3n/engine
+	url = https://github.com/g3n/engine.git
+[submodule "graphic_engine/g3n/g3nd"]
+	path = graphic_engine/g3n/g3nd
+	url = https://github.com/g3n/g3nd.git
+[submodule "graphic_engine/g3n/demos"]
+	path = graphic_engine/g3n/demos
+	url = https://github.com/g3n/demos.git
+[submodule "graphic_engine/ebiten/ebiten"]
+	path = graphic_engine/ebiten/ebiten
+	url = https://github.com/hajimehoshi/ebiten.git
