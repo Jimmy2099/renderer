@@ -1,3 +1,6 @@
 [submodule "blender"]
 	path = blender
 	url = https://github.com/blender/blender.git
+[submodule "godot"]
+	path = godot
+	url = https://github.com/godotengine/godot.git
