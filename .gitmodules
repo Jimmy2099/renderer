@@ -34,3 +34,6 @@
 [submodule "graphic_engine/ebiten/ebiten"]
 	path = graphic_engine/ebiten/ebiten
 	url = https://github.com/hajimehoshi/ebiten.git
+[submodule "UnrealEngine"]
+	path = UnrealEngine
+	url = https://github.com/EpicGames/UnrealEngine.git
