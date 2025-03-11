@@ -4,3 +4,21 @@
 [submodule "godot"]
 	path = godot
 	url = https://github.com/godotengine/godot.git
+[submodule "game/ea/CnC_Generals_Zero_Hour"]
+	path = game/ea/CnC_Generals_Zero_Hour
+	url = https://github.com/electronicarts/CnC_Generals_Zero_Hour
+[submodule "game/ea/CnC_Remastered_Collection"]
+	path = game/ea/CnC_Remastered_Collection
+	url = https://github.com/electronicarts/CnC_Remastered_Collection.git
+[submodule "game/ea/CnC_Renegade"]
+	path = game/ea/CnC_Renegade
+	url = https://github.com/electronicarts/CnC_Renegade.git
+[submodule "game/ea/CnC_Red_Alert"]
+	path = game/ea/CnC_Red_Alert
+	url = https://github.com/electronicarts/CnC_Red_Alert.git
+[submodule "game/ea/CnC_Tiberian_Dawn"]
+	path = game/ea/CnC_Tiberian_Dawn
+	url = https://github.com/electronicarts/CnC_Tiberian_Dawn.git
+[submodule "game/ea/CnC_Modding_Support"]
+	path = game/ea/CnC_Modding_Support
+	url = https://github.com/electronicarts/CnC_Modding_Support.git
